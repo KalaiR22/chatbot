@@ -26,7 +26,7 @@ const Sidebar = ({ isOpen, setIsOpen, toggleSidebar, openSettings }) => {
             <div className="flex  items-center w-full hover:bg-[#e5e7eb7a] rounded-md cursor-pointer justify-between text-black gap-2 py-2  pl-3 pr-6 ">
               <div className="flex gap-2 items-center justify-center">
                 <img src={logo} alt="" className="w-[32px] h-[32px]" />
-                <p className="text-[1.25rem] font-bold">Orbit</p>
+                <p className="text-[1.25rem] font-bold">Theo</p>
               </div>
               <button onClick={toggleSidebar} className="cursor-pointer">
                 <svg

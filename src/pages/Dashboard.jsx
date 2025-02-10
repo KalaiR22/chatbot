@@ -103,7 +103,7 @@ const Dashboard = () => {
             </button>
           )}
           <p className="text-[1.25rem] font-semibold text-center flex-1">
-            Orbit
+            Theo
           </p>
           <CustomLoginButton  />
         </header>
